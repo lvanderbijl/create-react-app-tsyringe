@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8ef784c-9d64-4c93-a276-3b58535a7c42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1YpT9DIovA7d8Qtnt5h2unytE83" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/foo-service.ts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="testing my service" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.tsx" />
+      <test-names>
+        <test-name value="testing my service" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.testing my service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ef784c-9d64-4c93-a276-3b58535a7c42" name="Default Changelist" comment="" />
+      <created>1583638382637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583638382637</updated>
+      <workItem from="1583638386107" duration="2307000" />
+    </task>
+    <task id="LOCAL-00001" summary="get tsyringe working with CRA">
+      <created>1583640477897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583640477897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="get tsyringe working with CRA" />
+    <option name="LAST_COMMIT_MESSAGE" value="get tsyringe working with CRA" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583639322195">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="414" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1583639322195" />
+    <state x="627" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583639919970">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="627" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1583639919970" />
+    <state x="445" y="34" width="1020" height="1046" key="CommitChangelistDialog2" timestamp="1583640477787">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="445" y="34" width="1020" height="1046" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1583640477787" />
+    <state width="1864" height="354" key="GridCell.Tab.0.bottom" timestamp="1583639404765">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="354" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1583639404765" />
+    <state width="1864" height="354" key="GridCell.Tab.0.center" timestamp="1583639404765">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="354" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1583639404765" />
+    <state width="1864" height="354" key="GridCell.Tab.0.left" timestamp="1583639404764">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="354" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1583639404764" />
+    <state width="1864" height="354" key="GridCell.Tab.0.right" timestamp="1583639404765">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1864" height="354" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1583639404765" />
+    <state x="455" y="225" width="1000" height="671" key="Vcs.Push.Dialog.v2" timestamp="1583640482938">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="455" y="225" width="1000" height="671" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1583640482938" />
+    <state x="540" y="250" key="run.anything.popup" timestamp="1583640052073">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="540" y="250" key="run.anything.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1583640052073" />
+  </component>
+</project>
